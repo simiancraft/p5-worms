@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": ["p5/global"],
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "lib": ["ESNext", "DOM"]
+  },
+}
