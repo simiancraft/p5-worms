@@ -4,9 +4,9 @@ The p5-vite-boilerplate is a template designed for creative coding with p5.js. I
 
 ## Features
 
-* **Vite**: The project is built on the Vite build tool, which offers fast and efficient development, making it an excellent choice for your projects.
-* **ESM (ECMAScript Modules)**: This boilerplate embraces ECMAScript Modules for a modular and organized codebase, ensuring a maintainable project structure.
-* **Type-safe**: Ensures type safety, reducing potential errors in your code and providing a smoother development experience.
+- **Vite**: The project is built on the Vite build tool, which offers fast and efficient development, making it an excellent choice for your projects.
+- **ESM (ECMAScript Modules)**: This boilerplate embraces ECMAScript Modules for a modular and organized codebase, ensuring a maintainable project structure.
+- **Type-safe**: Ensures type safety, reducing potential errors in your code and providing a smoother development experience.
 
 ## Getting Started
 
