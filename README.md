@@ -1,3 +1,6 @@
+
+View on [Github Pages](https://simiancraft.github.io/p5-worms/)
+
 # p5-vite-boilerplate
 
 The p5-vite-boilerplate is a template designed for creative coding with p5.js. It simplifies the setup and structure for your creative coding projects, making it easier to unleash your creativity.
