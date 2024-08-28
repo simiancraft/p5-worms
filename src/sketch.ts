@@ -16,7 +16,7 @@ class Boid {
     this.acceleration = createVector();
     this.maxForce = 0.2;
     this.maxSpeed = 5;
-    this.trailSize = 30;
+    this.trailSize = 20;
     this.pointHistory = [];
   }
 
